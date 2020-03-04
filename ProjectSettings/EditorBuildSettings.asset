@@ -6,6 +6,60 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Title_Scene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Select_Scene.unity
+    guid: 05130d764e2c6f64c89618ff6634bd2d
+  - enabled: 1
+    path: Assets/Scenes/Free_Scene.unity
+    guid: cbf2f49351344a54ab4d102041b47f83
+  - enabled: 1
+    path: Assets/Scenes/Memory_Scene.unity
+    guid: a673d73ed8146a341bde3cfb3df68517
+  - enabled: 1
+    path: Assets/Scenes/Adverse_Scene.unity
+    guid: e749baff1fa84dc40a379fd2be2cc7c5
+  - enabled: 1
+    path: Assets/Scenes/Eternal_Scene.unity
+    guid: 8d9bba778dfa07943898d9870baf5c58
+  - enabled: 1
+    path: Assets/Scenes/Luminous_Scene.unity
+    guid: 12b29773c69d3e743b51f3311703974a
+  - enabled: 1
+    path: Assets/Scenes/Vicious_Scene.unity
+    guid: ba710e01c14735140a73a2f5d9357dbd
+  - enabled: 1
+    path: Assets/Scenes/Absolute_Scene.unity
+    guid: 8cf98140d6ac68b4cb9ab757d82dc27b
+  - enabled: 1
+    path: Assets/Scenes/Ambivalent_Scene.unity
+    guid: 8dc1fd47286315441a2a3bc42709765a
+  - enabled: 1
+    path: Assets/Scenes/Binary_Scene.unity
+    guid: 1c4b1dfa7ba1e5d4b89dcb4adf719e51
+  - enabled: 1
+    path: Assets/Scenes/Sunset_Scene.unity
+    guid: a7482ec7475851a4083129cfdff74ad4
+  - enabled: 1
+    path: Assets/Scenes/Chunithm_Scene.unity
+    guid: e7eb994acdc4e6a459ad316485445c71
+  - enabled: 1
+    path: Assets/Scenes/Crimsom_Scene.unity
+    guid: 1df69a420068f7348bd5bf9735d9ab94
+  - enabled: 1
+    path: Assets/Scenes/Tone_Scene.unity
+    guid: bde4df9de39af674496d84b58344cb91
+  - enabled: 1
+    path: Assets/Scenes/Dynamix_Scene.unity
+    guid: cc8fd350a76889c4593ecc195f1d4e9f
+  - enabled: 1
+    path: Assets/Scenes/Lanota_Scene.unity
+    guid: 004456279b4da684180fcc685c8630ed
+  - enabled: 1
+    path: Assets/Scenes/Groove_Scene.unity
+    guid: f1f20f5bfc30e6748bfaecb5076a3ba8
+  - enabled: 1
+    path: Assets/Scenes/All_Scene.unity
+    guid: 6da6987d81cf5294ab8869b85a9bed5d
   m_configObjects: {}
