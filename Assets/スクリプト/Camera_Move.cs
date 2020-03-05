@@ -8,7 +8,7 @@ public class Camera_Move : MonoBehaviour
     private Vector2 scrollStartPos = new Vector2(); // スクロールの起点となるタッチポジション
     private static float SCROLL_END_LEFT = 5f; // 左側への移動制限(これ以上左には進まない)
     private static float SCROLL_END_RIGHT = 59f; // 右側への移動制限(これ以上右には進まない)
-    private static float SCROLL_DISTANCE_CORRECTION = 0.8f; // スクロール距離の調整
+    private static float SCROLL_DISTANCE_CORRECTION = 1.1f; // スクロール距離の調整
 
     private Vector2 touchPosition = new Vector2(); // タッチポジション初期化
     private Collider2D collide2dObj = null; // タッチ位置にあるオブジェクトの初期化
